@@ -1,1 +1,1 @@
-microservice-template-core==2.4.1
+microservice-template-core==2.2.9
