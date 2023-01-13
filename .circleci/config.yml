@@ -6,6 +6,9 @@ workflows:
       - build:
           context:
             - Harpia
+          filters:
+            only:
+              - develop
 
 jobs:
   build:
