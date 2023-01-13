@@ -7,8 +7,9 @@ workflows:
           context:
             - Harpia
           filters:
-            only:
-              - develop
+            branches:
+              only:
+                - develop
 
 jobs:
   build:
