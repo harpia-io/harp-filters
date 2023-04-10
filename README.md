@@ -1,4 +1,6 @@
-## Harp Filter Service
+## Open Source Incident Management system - Harp Filter Service
+
+### Full info about Project - https://github.com/harpia-io/harpia
 
 ### Intro
 The backend service of Harp Platform and works as filter engine.
